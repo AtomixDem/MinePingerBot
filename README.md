@@ -5,6 +5,7 @@ Main command:
 - ?status < IP address >
 - ?help
 - ?info
+- ?info
 
 Here's what you can see about a server:
 - Address
