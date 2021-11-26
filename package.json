@@ -1,0 +1,23 @@
+{
+  "name": "giulioandtutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "2smart2wait": "^1.0.1",
+    "@discordjs/opus": "^0.6.0",
+    "anti-swear-words-packages-discord": "^1.1.43",
+    "discord-buttons": "^4.0.0",
+    "discord-music-player": "^8.0.2",
+    "discord.js": "^12.5.3",
+    "minecraft-motd-util": "^1.1.3",
+    "minecraft-ping-js": "^1.0.2",
+    "minecraft-server-util": "^4.1.3",
+    "reworlds.js": "^1.3.3"
+  }
+}
