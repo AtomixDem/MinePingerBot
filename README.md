@@ -2,7 +2,7 @@ MinePinger#7640 is a bot to view the status of any Minecraft server.
 Invite the bot from this link: https://bit.ly/minepinger
 
 Main command:
-- ?status <IP address>
+- ?status < IP address >
 - ?help
 - ?info
 
